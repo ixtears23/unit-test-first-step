@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset> 
+ <user_manage id="004"
+	name="js"
+	emain="asdf"
+	phone="015412"
+	sex="남"
+	birth="8574112"/>
+ <user_manage
+	id="005"
+	name="js"
+	emain="asdf"
+	phone="015412"
+	sex="남"
+	birth="8574112"/>
+ <user_manage
+	id="006"
+	name="js"
+	emain="asdf"
+	phone="015412"
+	sex="남"
+	birth="8574112"/>
+</dataset>
